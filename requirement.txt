@@ -1,0 +1,21 @@
+Reference site: https://market.pixelvault.com/
+
+Docs and Req: https://docs.google.com/document/d/1JrRH_ljrVg-IlzWK58cfzQSM4j3u4DMYZ8tYpZIi2E8/edit
+
+
+Task request: 
+https://app.milanote.com/1PNQ2L142pzka9/marketplace?p=t8TGHsLxbJn
+
+
+Demo:
+
+https://paradox-nft-marketplace.vercel.app/
+
+
+Figma new design: 
+
+https://www.figma.com/file/HJhr8hqSwKPEipndkkWQUt/Paradox-WD?type=design&node-id=2-3854&t=1sdUN1dqwhEPBe5E-0
+
+
+id: kogutstt2@gmail.com
+pass: Tothetop!0312
